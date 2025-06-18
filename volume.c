@@ -1,3 +1,5 @@
+// makes use of modules which are not provided here
+
 // Modifies the volume of an audio file
 
 #include <stdint.h>
